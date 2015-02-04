@@ -1,1 +1,1 @@
-# yii2-jfileupload-widget
+# jQueryFileUpload

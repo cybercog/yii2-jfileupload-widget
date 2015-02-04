@@ -1,0 +1,22 @@
+{
+    "name": "range-web/yii2-jfileupload-widget",
+    "description": "BlueImp jQuery File Upload Widget for Yii2.",
+    "keywords": ["yii", "extension", "widget", "upload"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Yurij Borschev",
+            "email": "yborschev@gmail.com",
+            "homepage": "http://rangeweb.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rangeweb\\jfileupload\\": ""
+        }
+    }
+}
